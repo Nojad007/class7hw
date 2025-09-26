@@ -1,0 +1,6 @@
+HW # 1
+
+Must be in github repo link Keep local for now until all group leaders are assigned
+Screenshot of running web server
+Copy of the start up script saved as a .txt file
+Readme instructions on how to configure the EC2 with teardown instructions
