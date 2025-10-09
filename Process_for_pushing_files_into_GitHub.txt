@@ -1,7 +1,0 @@
-git clone - Copies the repo on your local drive
-git init - prepares the repo to receive files from the local repo
-git status - Shows which files and folders are in the local repo
-git add <folder> or git add <folder>/* - prepares the files to be committed
-git status - checks to see if the files and/or folders have been prepped to be committed
-git commit  -M ‘Description of file or folder’ - commits the files to be pushed into the repo
-git push -u origin main - pushes the files or folders into the repo in GitHub
